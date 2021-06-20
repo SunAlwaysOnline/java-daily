@@ -1,6 +1,9 @@
 一个HashMap跟面试官扯了半个小时  
 https://mp.weixin.qq.com/s/oRx-8XXbgage9Hf97WrDQQ
 
+HashMap夺命连环问
+https://blog.csdn.net/qq_33591903/article/details/108884467
+
 HashMap 面试二十一问！
 https://mp.weixin.qq.com/s/oWiaWsBCxwCMiwHnmA6iKA
 
